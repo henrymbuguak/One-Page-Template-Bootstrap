@@ -1,0 +1,31 @@
+H-Lab is a Single Page WebSite Template created using Twitter Bootstrap. The Template is
+fully responsive and thus can be change to fit the needs of your project. Bootstrap is 
+all about classes and if you can remember them, you can design anything.
+
+H-Lab Template has the following features:
+         
+Fixed Navigation bar
+            This navigation stays stationary thus you can access any part of the site with
+            ease. The template focus on the usability of the site. You can click any link 
+            at the navigation and you are automatically taken there.
+            
+Jumbotron
+         The template also uses Jumbotron and H-Lab has used an image in the Jumbotron as a
+         background. The image has been made responsive thus good for small screens. The text
+         color in Jumbotron also is transformed automatically to white color.
+         
+Carousel
+        The template also uses carousel for cool image sliding. Carousel is class in 
+        bootstrap that helps create image slider. If you decide to use this class you must make sure 
+        that the image that goes to the slider are all of the same size.
+        
+        Visit unsplash.com for high-quality image
+        
+Thumbnails
+        We have also used Thumbnails in about us section and you can link this thumbnails 
+        to LinkedIn profiles of your workers.       
+ 
+        
+H-Lab has also tried to make the code as much readable as possible. You can change it to fit your needs.
+
+           ---------------  Happy Coding  ~ Henry Mbugua  -------------------
